@@ -1,0 +1,31 @@
+.btn-red {
+    color: #fff;
+    background-color: rgb(155, 48, 48);
+    border-color: rgb(124, 0, 0);
+    padding: 5px 40px;
+    /* Adjust the padding to make the button bigger */
+    font-size: 100px;
+    font-family: "FontAwesome";
+    /* Adjust the font size to make the text larger */
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 0%;
+}
+
+body {
+    font-family: 'Courier New', monospace;
+    background-color: #ffffff;
+    /* Light gray color */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 70vh;
+  }
+
+button{
+    font-family: "FontAwesome";
+}

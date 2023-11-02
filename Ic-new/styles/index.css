@@ -1,0 +1,19 @@
+body {
+  font-family: 'Courier New', monospace;
+  background-color: #ffffff;
+  /* Light gray color */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+/*DIVISÕES DA CASA */
+.btn {
+  margin: 5px;
+ 
+}
+.btnC{
+  font-size: 50px;
+  margin: 10px;
+}
+
